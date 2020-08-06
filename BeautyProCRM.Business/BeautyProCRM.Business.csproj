@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BeautyPro.CRM.Contract\BeautyPro.CRM.Contract.csproj" />
+    <ProjectReference Include="..\BeautyPro.CRM.EF\BeautyPro.CRM.EF.csproj" />
+    <ProjectReference Include="..\BeautyPro.CRM.Mapper\BeautyPro.CRM.Mapper.csproj" />
+    <ProjectReference Include="..\BeautyProCRM.Common\BeautyProCRM.Common.csproj" />
+  </ItemGroup>
+
+</Project>

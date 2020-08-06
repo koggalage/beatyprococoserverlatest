@@ -1,0 +1,12 @@
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\bin\Release\netcoreapp2.2\BeautyPro.CRM.Contract.deps.json
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\bin\Release\netcoreapp2.2\BeautyPro.CRM.Contract.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\bin\Release\netcoreapp2.2\BeautyPro.CRM.Contract.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\bin\Release\netcoreapp2.2\BeautyProCRM.Common.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\bin\Release\netcoreapp2.2\BeautyProCRM.Common.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\obj\Release\netcoreapp2.2\BeautyPro.CRM.Contract.csprojAssemblyReference.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\obj\Release\netcoreapp2.2\BeautyPro.CRM.Contract.csproj.CoreCompileInputs.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\obj\Release\netcoreapp2.2\BeautyPro.CRM.Contract.AssemblyInfoInputs.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\obj\Release\netcoreapp2.2\BeautyPro.CRM.Contract.AssemblyInfo.cs
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\obj\Release\netcoreapp2.2\BeautyPro.CRM.Contract.csproj.CopyComplete
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\obj\Release\netcoreapp2.2\BeautyPro.CRM.Contract.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Contract\obj\Release\netcoreapp2.2\BeautyPro.CRM.Contract.pdb

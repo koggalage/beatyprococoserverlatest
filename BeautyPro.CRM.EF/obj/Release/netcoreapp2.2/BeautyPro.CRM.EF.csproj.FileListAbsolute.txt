@@ -1,0 +1,11 @@
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\bin\Release\netcoreapp2.2\BeautyPro.CRM.EF.deps.json
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\bin\Release\netcoreapp2.2\BeautyPro.CRM.EF.runtimeconfig.json
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\bin\Release\netcoreapp2.2\BeautyPro.CRM.EF.runtimeconfig.dev.json
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\bin\Release\netcoreapp2.2\BeautyPro.CRM.EF.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\bin\Release\netcoreapp2.2\BeautyPro.CRM.EF.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\obj\Release\netcoreapp2.2\BeautyPro.CRM.EF.csproj.CoreCompileInputs.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\obj\Release\netcoreapp2.2\BeautyPro.CRM.EF.AssemblyInfoInputs.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\obj\Release\netcoreapp2.2\BeautyPro.CRM.EF.AssemblyInfo.cs
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\obj\Release\netcoreapp2.2\BeautyPro.CRM.EF.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\obj\Release\netcoreapp2.2\BeautyPro.CRM.EF.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.EF\obj\Release\netcoreapp2.2\BeautyPro.CRM.EF.csprojAssemblyReference.cache

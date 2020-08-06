@@ -1,0 +1,16 @@
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.deps.json
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyPro.CRM.Contract.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyPro.CRM.EF.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyProCRM.Common.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyPro.CRM.Contract.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyPro.CRM.EF.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\bin\Release\netcoreapp2.2\BeautyProCRM.Common.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\obj\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.csprojAssemblyReference.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\obj\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.csproj.CoreCompileInputs.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\obj\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.AssemblyInfoInputs.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\obj\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.AssemblyInfo.cs
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\obj\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.csproj.CopyComplete
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\obj\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyPro.CRM.Mapper\obj\Release\netcoreapp2.2\BeautyPro.CRM.Mapper.pdb

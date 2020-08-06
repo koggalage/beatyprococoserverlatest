@@ -1,0 +1,9 @@
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\bin\Debug\netcoreapp2.2\BeautyProCRM.Common.deps.json
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\bin\Debug\netcoreapp2.2\BeautyProCRM.Common.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\bin\Debug\netcoreapp2.2\BeautyProCRM.Common.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\obj\Debug\netcoreapp2.2\BeautyProCRM.Common.csproj.CoreCompileInputs.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\obj\Debug\netcoreapp2.2\BeautyProCRM.Common.AssemblyInfoInputs.cache
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\obj\Debug\netcoreapp2.2\BeautyProCRM.Common.AssemblyInfo.cs
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\obj\Debug\netcoreapp2.2\BeautyProCRM.Common.dll
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\obj\Debug\netcoreapp2.2\BeautyProCRM.Common.pdb
+F:\All\Xnoesys\CRM\Project\Repo\BeautyProCRM.Common\obj\Debug\netcoreapp2.2\BeautyProCRM.Common.csprojAssemblyReference.cache
